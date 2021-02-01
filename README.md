@@ -13,8 +13,7 @@
  <strong>CodeBase</strong>: https://github.com/TheArchitect123/TongueTwister.Xamarin.iOS
  </br>
  </br>
- <li>
- 
+ </li>
  <li>
  Calculator
  </br>
@@ -23,7 +22,7 @@
  </br>
  <strong>Google Play Store Link</strong>: https://play.google.com/store/apps/details?id=com.DanGerchcovich.Calculator
  </br>
-
+</li>
  </ol>
 
 
