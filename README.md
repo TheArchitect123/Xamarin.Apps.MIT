@@ -19,7 +19,7 @@
  </br>
  <strong>Languages</strong>: C# (Xamarin Native) 
  
- </br>Platforms: Xamarin.Android
+ </br><strong>Platforms</strong>: Xamarin.Android
  </br>
  <strong>Google Play Store Link</strong>: https://play.google.com/store/apps/details?id=com.DanGerchcovich.Calculator
  </li>
