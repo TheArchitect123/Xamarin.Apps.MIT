@@ -3,11 +3,12 @@
 <strong>Xamarin.Android</strong>:
 1. Tongue Twister!
 </br>
-Languages: C# (Xamarin Native) Platforms: Xamarin.Android, Xamarin.iOS
+<strong>Languages</strong>: C# (Xamarin Native)
+</br>Platforms: Xamarin.Android, Xamarin.iOS
 </br>
-Google Play Store Link: https://play.google.com/store/apps/details?id=com.Dangerchcovich.TongueTwister
+<strong>Google Play Store Link</strong>: https://play.google.com/store/apps/details?id=com.Dangerchcovich.TongueTwister
 </br>
-CodeBase: https://github.com/TheArchitect123/TongueTwister.Xamarin.iOS
+<strong>CodeBase</strong>: https://github.com/TheArchitect123/TongueTwister.Xamarin.iOS
 </br>
 
 2. Calculator
