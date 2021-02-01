@@ -41,4 +41,17 @@ MiniVault
 <strong>CodeBase</strong>: https://github.com/TheArchitect123/MiniVault---XamarinForms
 </br><strong>iOS Store Link</strong>: https://apps.apple.com/us/app/mini-vault/id1437085332
 </li>
+
+<li>
+PPLConnect 
+</br>
+<strong>Languages</strong>: C# (Xamarin Forms)
+</br>
+<strong>Platforms</strong>: iOS & Android
+</br>
+<strong>CodeBase</strong>: https://github.com/TheArchitect123/PPLConnect.Xamarin.Forms
+</br><strong>iOS Store Link</strong>: https://apps.apple.com/us/app/pplconnect/id1496496975
+</br>
+<strong>Google Play Store Link</strong>:https://play.google.com/store/apps/details?id=com.Grunts.PPLConnect
+</li>
 </ol>
