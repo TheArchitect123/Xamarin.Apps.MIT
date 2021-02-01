@@ -4,26 +4,29 @@
 1. Tongue Twister!
 </br>
 <strong>Languages</strong>: C# (Xamarin Native)
-</br>Platforms: Xamarin.Android, Xamarin.iOS
+</br><strong>Platforms</strong>: Xamarin.Android, Xamarin.iOS
 </br>
 <strong>Google Play Store Link</strong>: https://play.google.com/store/apps/details?id=com.Dangerchcovich.TongueTwister
 </br>
 <strong>CodeBase</strong>: https://github.com/TheArchitect123/TongueTwister.Xamarin.iOS
 </br>
+</br>
 
 2. Calculator
 </br>
-Languages: C# (Xamarin Native) Platforms: Xamarin.Android
+<strong>Languages</strong>: C# (Xamarin Native) Platforms: Xamarin.Android
 </br>
-Google Play Store Link: https://play.google.com/store/apps/details?id=com.DanGerchcovich.Calculator
+<strong>Google Play Store Link</strong>: https://play.google.com/store/apps/details?id=com.DanGerchcovich.Calculator
 
 </br>
+</br>
 <strong>Xamarin.Forms</strong>:
+</br>
 1. MiniVault 
 </br>
-Languages: C# (Xamarin Forms)
+<strong>Languages</strong>: C# (Xamarin Forms)
 </br>
-Platforms: iOS & Android
+<strong>Platforms</strong>: iOS & Android
 </br>
-CodeBase: https://github.com/TheArchitect123/MiniVault---XamarinForms
+<strong>CodeBase</strong>: https://github.com/TheArchitect123/MiniVault---XamarinForms
 </br>iOS Store Link: https://apps.apple.com/us/app/mini-vault/id1437085332
