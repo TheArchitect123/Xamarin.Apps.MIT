@@ -13,17 +13,16 @@
  <strong>CodeBase</strong>: https://github.com/TheArchitect123/TongueTwister.Xamarin.iOS
  </br>
  </br>
+ <li>
  
  <li>
  Calculator
  </br>
- <strong>Languages</strong>: C# (Xamarin Native) 
- 
+ <strong>Languages</strong>: C# (Xamarin Native)
  </br><strong>Platforms</strong>: Xamarin.Android
  </br>
  <strong>Google Play Store Link</strong>: https://play.google.com/store/apps/details?id=com.DanGerchcovich.Calculator
- </li>
- </li>
+ </br>
 
  </ol>
 
@@ -41,6 +40,6 @@ MiniVault
 <strong>Platforms</strong>: iOS & Android
 </br>
 <strong>CodeBase</strong>: https://github.com/TheArchitect123/MiniVault---XamarinForms
-</br>iOS Store Link: https://apps.apple.com/us/app/mini-vault/id1437085332
+</br><strong>iOS Store Link</strong>: https://apps.apple.com/us/app/mini-vault/id1437085332
 </li>
 </ol>
