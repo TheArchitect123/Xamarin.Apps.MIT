@@ -17,20 +17,24 @@
  <li>
  Calculator
  </br>
- <strong>Languages</strong>: C# (Xamarin Native) Platforms: Xamarin.Android
+ <strong>Languages</strong>: C# (Xamarin Native) 
+ 
+ </br>Platforms: Xamarin.Android
  </br>
  <strong>Google Play Store Link</strong>: https://play.google.com/store/apps/details?id=com.DanGerchcovich.Calculator
  </li>
  </li>
 
- </ol.
+ </ol>
 
 
 </br>
 </br>
 <strong>Xamarin.Forms</strong>:
 </br>
-1. MiniVault 
+<ol>
+<li>
+MiniVault 
 </br>
 <strong>Languages</strong>: C# (Xamarin Forms)
 </br>
@@ -38,3 +42,5 @@
 </br>
 <strong>CodeBase</strong>: https://github.com/TheArchitect123/MiniVault---XamarinForms
 </br>iOS Store Link: https://apps.apple.com/us/app/mini-vault/id1437085332
+</li>
+</ol>
